@@ -1,4 +1,4 @@
-# Relational Database Model Documentation
+# Video Games Database Model Documentation
 
 ## Overview
 This document provides an overview of a relational database model designed to manage information related to game publishers, games, players, and their interactions. The database includes tables for publishers, games, genres, players, ownership, playtime, and reviews, along with supporting functions to extract and manipulate data effectively.
